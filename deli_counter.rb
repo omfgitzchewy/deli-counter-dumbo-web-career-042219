@@ -8,8 +8,8 @@ def line(arr)
     output += "#{i + 1}. #{arr[i]} "
     i += 1
   end
-  puts output
   end
+  puts output
 end
 
 def take_a_number(arr, str)
