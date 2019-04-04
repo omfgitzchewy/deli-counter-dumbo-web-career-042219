@@ -2,7 +2,7 @@ def line(arr)
   if arr.length == 0
     puts "The line is currently empty."
   end
-  
+
   i = 0
   output = "The line is currently: "
   while i < arr.length
