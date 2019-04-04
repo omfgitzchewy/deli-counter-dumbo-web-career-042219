@@ -7,6 +7,7 @@ def line(arr)
     while i < arr.length
       output += "#{i + 1}. #{arr[i]} "
     end
+    puts output
   end
 end
 
